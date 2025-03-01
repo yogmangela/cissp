@@ -1,0 +1,8 @@
+Flask==2.0.3
+scikit-learn==1.0.1
+tensorflow==2.6.0
+numpy==1.19.5
+werkzeug==2.0.2
+joblib==1.1.0
+Pillow==8.4.0           # For image processing
+requests==2.26.0        # If you plan to make API requests from the client-side
